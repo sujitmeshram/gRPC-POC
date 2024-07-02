@@ -1,0 +1,22 @@
+﻿# Ignore NuGet config file
+nuget.config
+
+# Ignore build outputs
+bin/
+obj/
+
+
+# Ignore user-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore JetBrains Rider project files
+.idea/
+
+# Ignore Visual Studio Code project files
+.vscode/
+.vs
+
+# Ignore .NET Core project temporary files
+*.swp
